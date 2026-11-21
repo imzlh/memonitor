@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=MemMonitor
+GenericName=Memory Monitor
+GenericName[zh_CN]=内存监视器
+Comment=Monitor process memory and zram usage
+Comment[zh_CN]=监视进程内存与 zram 使用情况
+Exec=memonitor
+Icon=utilities-system-monitor
+Terminal=false
+Categories=System;Monitor;
+Keywords=memory;RAM;swap;zram;
+StartupNotify=true
+StartupWMClass=MemMonitor

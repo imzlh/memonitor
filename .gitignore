@@ -1,0 +1,9 @@
+/build/
+/build-*/
+/dist/
+/.cache/
+/.nop/
+/kwin_*.dsc
+/kwin_*.tar.*
+*.user
+compile_commands.json
